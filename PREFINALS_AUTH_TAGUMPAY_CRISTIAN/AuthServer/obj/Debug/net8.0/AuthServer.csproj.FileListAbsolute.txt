@@ -1,0 +1,8 @@
+C:\Users\publi\Documents\GitHub\PREFINALS_ASSIGNMENT1_TAGUMPAY_CRISTIAN_BSIT_32E1\PREFINALS_AUTH_TAGUMPAY_CRISTIAN\AuthServer\obj\Debug\net8.0\AuthServer.csproj.AssemblyReference.cache
+C:\Users\publi\Documents\GitHub\PREFINALS_ASSIGNMENT1_TAGUMPAY_CRISTIAN_BSIT_32E1\PREFINALS_AUTH_TAGUMPAY_CRISTIAN\AuthServer\obj\Debug\net8.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\publi\Documents\GitHub\PREFINALS_ASSIGNMENT1_TAGUMPAY_CRISTIAN_BSIT_32E1\PREFINALS_AUTH_TAGUMPAY_CRISTIAN\AuthServer\obj\Debug\net8.0\AuthServer.AssemblyInfoInputs.cache
+C:\Users\publi\Documents\GitHub\PREFINALS_ASSIGNMENT1_TAGUMPAY_CRISTIAN_BSIT_32E1\PREFINALS_AUTH_TAGUMPAY_CRISTIAN\AuthServer\obj\Debug\net8.0\AuthServer.AssemblyInfo.cs
+C:\Users\publi\Documents\GitHub\PREFINALS_ASSIGNMENT1_TAGUMPAY_CRISTIAN_BSIT_32E1\PREFINALS_AUTH_TAGUMPAY_CRISTIAN\AuthServer\obj\Debug\net8.0\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\publi\Documents\GitHub\PREFINALS_ASSIGNMENT1_TAGUMPAY_CRISTIAN_BSIT_32E1\PREFINALS_AUTH_TAGUMPAY_CRISTIAN\AuthServer\obj\Debug\net8.0\AuthServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\publi\Documents\GitHub\PREFINALS_ASSIGNMENT1_TAGUMPAY_CRISTIAN_BSIT_32E1\PREFINALS_AUTH_TAGUMPAY_CRISTIAN\AuthServer\obj\Debug\net8.0\AuthServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\publi\Documents\GitHub\PREFINALS_ASSIGNMENT1_TAGUMPAY_CRISTIAN_BSIT_32E1\PREFINALS_AUTH_TAGUMPAY_CRISTIAN\AuthServer\obj\Debug\net8.0\AuthServer.sourcelink.json
